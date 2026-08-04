@@ -38,13 +38,20 @@ R² Score : 0.653
 
 ## Visualizations
 
-- Price Distribution
+- **Price Distribution**
+  
   <img width="571" height="431" alt="image" src="https://github.com/user-attachments/assets/f4688aa3-ad76-4522-b108-2788801ade0d" />
-- Correlation Heatmap
+  
+- **Correlation Heatmap**
+  
   <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/078c2bb3-c070-42a8-8471-4b849f808f00" />
-- Area vs Price
+  
+- **Area vs Price**
+  
   <img width="490" height="489" alt="image" src="https://github.com/user-attachments/assets/567997ad-b9d2-4c65-ae5a-a6e782ebbb52" />
-- Box Plot
+  
+- **Box Plot**
+  
   <img width="547" height="428" alt="image" src="https://github.com/user-attachments/assets/d2d6b390-d158-4d79-a4fb-b4e24a91bfed" />
 
 
